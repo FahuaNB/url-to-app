@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/site-logo-c61930b648c3e88a.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Poke API｜Claude、OpenAI、Gemini AI API 网关</title>
+    <meta
+      name="description"
+      content="Poke API 是面向开发者与团队的 AI API 网关，一个 API Key 接入 Claude、OpenAI、Gemini 等主流模型，提供透明计费、稳定路由与隐私优先的数据处理。"
+    />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="canonical" href="https://www.poke2api.com/home" />
+    <link rel="alternate" hreflang="zh-Hans" href="https://www.poke2api.com/home" />
+    <link rel="alternate" hreflang="en" href="https://www.poke2api.com/home" />
+    <link rel="alternate" hreflang="ja" href="https://www.poke2api.com/home" />
+    <link rel="alternate" hreflang="x-default" href="https://www.poke2api.com/home" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon.png" />
+    <meta name="theme-color" content="#11100e" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Poke API" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:locale:alternate" content="ja_JP" />
+    <meta property="og:title" content="Poke API｜Claude、OpenAI、Gemini AI API 网关" />
+    <meta
+      property="og:description"
+      content="一个 API Key 接入 Claude、OpenAI、Gemini 等主流模型，透明计费、稳定路由、隐私优先。"
+    />
+    <meta property="og:url" content="https://www.poke2api.com/home" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Poke API｜Claude、OpenAI、Gemini AI API 网关" />
+    <meta
+      name="twitter:description"
+      content="一个 API Key 接入 Claude、OpenAI、Gemini 等主流模型，透明计费、稳定路由、隐私优先。"
+    />
+    <script id="site-structured-data" nonce="7Wb1Gu22xB3LX1xjqByqIQ==" type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Poke API",
+        "alternateName": ["PokeAPI", "Poke API Gateway"],
+        "url": "https://www.poke2api.com/home"
+      }
+    </script>
+    <script type="module" crossorigin src="/assets/index-C6I5IOQk.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-vue-BCcgDnxC.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-i18n-CXiXP91R.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-axios-DhXgJQ-f.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-BaBYYY9E.css">
+  <script nonce="7Wb1Gu22xB3LX1xjqByqIQ==">window.CAP_SCRIPT_NONCE="7Wb1Gu22xB3LX1xjqByqIQ==";window.__APP_CONFIG__={"account_quota_notify_enabled":true,"affiliate_enabled":true,"aliyun_captcha_enabled":false,"aliyun_captcha_prefix":"","aliyun_captcha_region":"cn","aliyun_captcha_scene_id":"","allow_user_view_error_requests":false,"api_base_url":"https://www.poke2api.com","available_channels_enabled":false,"backend_mode_enabled":false,"balance_low_notify_enabled":true,"balance_low_notify_recharge_url":"https://www.poke2api.com/purchase?tab=balance","balance_low_notify_threshold":1,"channel_monitor_default_interval_seconds":60,"channel_monitor_enabled":true,"channel_monitor_hide_throughput":true,"channel_monitor_mode":"v2","channel_monitor_show_quota":false,"chatwoot_base_url":"https://app.chatwoot.com","chatwoot_enabled":true,"chatwoot_website_token":"NQ4RF4DNNZEdc3YAjBQ2ywgh","compact_home_enabled":false,"contact_info":"785740487","custom_endpoints":[],"custom_menu_items":[{"id":"525963d36e7125a1","label":"GPT探测雷达","icon_svg":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\u003e\u003ccircle cx=\"12\" cy=\"12\" r=\"8\"/\u003e\u003ccircle cx=\"12\" cy=\"12\" r=\"4.5\" opacity=\".65\"/\u003e\u003cpath d=\"M12 12l5-5\"/\u003e\u003cpath d=\"M12 4v1M20 12h-1M12 20v-1M4 12h1\"/\u003e\u003c/svg\u003e","url":"https://codexradar.com","visibility":"user","sort_order":0}],"dingtalk_oauth_enabled":false,"doc_url":"https://docs.poke2api.com","email_verify_enabled":true,"github_oauth_enabled":true,"google_oauth_enabled":false,"hide_ccs_import_button":false,"home_content":"","invitation_code_enabled":false,"linuxdo_oauth_enabled":false,"login_agreement_documents":[{"id":"terms","title":"服务条款","content_md":""},{"id":"usage-policy","title":"使用政策","content_md":""},{"id":"supported-regions","title":"支持的国家和地区","content_md":""},{"id":"service-specific-terms","title":"服务特定条款","content_md":""}],"login_agreement_enabled":true,"login_agreement_mode":"checkbox","login_agreement_revision":"b43af08a846b9fb7","login_agreement_updated_at":"2026-07-05","model_ranking_enabled":true,"model_square_enabled":true,"notice_bar":"欢迎使用 Poke API · 点击链接加入群聊【Poke API】进群 1054130674 送余额！！送余额！！ | https://qm.qq.com/q/2HXF9uRG0U","oidc_oauth_enabled":false,"oidc_oauth_provider_name":"OIDC","passkey_enabled":true,"password_reset_captcha_required":true,"password_reset_enabled":true,"payment_enabled":true,"promo_code_enabled":true,"purchase_subscription_enabled":false,"purchase_subscription_url":"","real_name_verification_enabled":false,"registration_captcha_required":true,"registration_email_domain_quota_enabled":false,"registration_email_suffix_whitelist":[],"registration_enabled":true,"risk_control_enabled":true,"server_timezone":"Asia/Shanghai","server_utc_offset":"+08:00","site_logo":"/site-logo-c61930b648c3e88a.png","site_name":"Poke API","site_subtitle":"为尊贵的用户提供无与伦比的 AI 体验","table_default_page_size":20,"table_page_size_options":[10,20,50],"tencent_captcha_app_id":"","tencent_captcha_enabled":false,"tencent_captcha_region":"cn","totp_enabled":true,"turnstile_enabled":false,"turnstile_endpoint":"https://cap.poke2api.com","turnstile_site_key":"9c5bbbd237","version":"","wechat_oauth_enabled":false,"wechat_oauth_mobile_enabled":false,"wechat_oauth_mp_enabled":false,"wechat_oauth_open_enabled":false};</script></head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
